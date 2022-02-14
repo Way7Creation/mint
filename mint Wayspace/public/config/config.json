@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7CA7Cf62BA1742B3197A7BC3AEE029196265C148",
+  "SCAN_LINK": "https://polygonscan.com/token/0x7CA7Cf62BA1742B3197A7BC3AEE029196265C148",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "WaySpace",
+  "SYMBOL": "WSM",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 6000000000000000000,
+  "DISPLAY_COST": 6,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/wayspace",
+  "SHOW_BACKGROUND": true
+}
